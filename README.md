@@ -1,4 +1,7 @@
 <div align="center">
+  
+### 🛠️Tecnologias Utilizadas
+<br>
 <table>
   <tr>
     <td>
@@ -30,6 +33,7 @@
   </tr>
   
 </table>
+<br>
   
   ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Flerno14&theme=dark)
 
