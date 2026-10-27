@@ -31,7 +31,7 @@ Um espaço para compartilhar projetos, explorar tecnologias e transformar ideias
 
 Olá! Sou o **Guilherme**, também conhecido por aqui como **Flerno14**.
 
-Sou formado em Técnico em Desenvolvimento de Sistemas pelo SESI SENAI.
+Sou formado em Técnico em Desenvolvimento de Sistemas pelo SESI SENAI e estou atualmente cursando Análise em Desenvolvimento de Sistemas pelo UniSenai.
 Neste perfil, compartilho projetos de desenvolvimento web, aplicações
 desktop e automações, além de trabalhos acadêmicos colaborativos.
 
